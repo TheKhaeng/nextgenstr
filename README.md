@@ -15,7 +15,7 @@ Python sript for generate string from csv file to iOS and Android resource.
 install python 2.7.x before :)
 
 ``` 
-> python nextgenstr.py [-OPTION] <csv_file>
+> nextgenstr [-OPTION] <csv_file>
 ```
 
 ### 「 OPTION 」
